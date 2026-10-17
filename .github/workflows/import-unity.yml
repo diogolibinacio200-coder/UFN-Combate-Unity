@@ -1,0 +1,60 @@
+name: Importar projeto Unity validado
+on:
+  push:
+    paths:
+      - 'project-manifest.json'
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar integridade e importar projeto
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path, PurePosixPath
+          import hashlib, io, json, re, stat, zipfile
+          manifest = Path('project-manifest.json')
+          if not manifest.exists():
+              raise SystemExit(0)
+          data = json.loads(manifest.read_text())
+          assert data['version'] == '0.7.0'
+          assert 1 <= len(data['parts']) <= 30
+          chunks = []
+          for part in data['parts']:
+              name = part['name']
+              assert re.fullmatch(r'project-part-[0-9]{3}\.bin', name)
+              content = Path(name).read_bytes()
+              assert len(content) == part['size']
+              assert hashlib.sha256(content).hexdigest() == part['sha256']
+              chunks.append(content)
+          payload = b''.join(chunks)
+          assert hashlib.sha256(payload).hexdigest() == data['archive_sha256']
+          archive = zipfile.ZipFile(io.BytesIO(payload))
+          assert sum(item.file_size for item in archive.infolist()) < 500_000_000
+          for item in archive.infolist():
+              path = PurePosixPath(item.filename)
+              assert not path.is_absolute() and '..' not in path.parts
+              assert '\\' not in item.filename and ':' not in item.filename
+              assert path.parts[0] not in ('.git', '.github', 'Library', 'Temp', 'Logs', 'UserSettings')
+              assert not stat.S_ISLNK(item.external_attr >> 16)
+              if not item.is_dir():
+                  destination = Path(*path.parts)
+                  destination.parent.mkdir(parents=True, exist_ok=True)
+                  destination.write_bytes(archive.read(item))
+          for part in data['parts']:
+              Path(part['name']).unlink()
+          manifest.unlink()
+          print('Projeto importado:', len(archive.infolist()), 'arquivos; SHA-256 conferido.')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m 'Publicar UFN Combate Unity 0.7.0: projeto, recursos, documentação e validação'
+            git push
+          fi
+
