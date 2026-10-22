@@ -1,0 +1,8 @@
+{
+  "name": "UFN.Core.EditModeTests",
+  "rootNamespace": "UFN.Tests.EditMode",
+  "references": ["UFN.Core"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

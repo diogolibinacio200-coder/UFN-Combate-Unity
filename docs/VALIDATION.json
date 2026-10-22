@@ -1,0 +1,172 @@
+{
+  "Date": "2026-10-22",
+  "UnityVersion": "6000.3.26f1",
+  "ExternalCoreChecks": 9092,
+  "ExternalCoreFailures": 0,
+  "UnityTests": 39,
+  "UnityFailures": 0,
+  "UnitySkipped": 0,
+  "WindowsBuild": "Succeeded",
+  "RuntimeChecks": 40,
+  "RuntimeErrors": 0,
+  "Screenshots": 26,
+  "TextLayoutIssues": 0,
+  "Cases": [
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.DeadzoneRejectsNoiseAndAlternateInvertedAxisSteersProgressively",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.GamepadsRemainPairedToSeparateSeats",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.ItemAndRecoveryEdgesSurviveReleaseAndDoNotRepeatWhileHeld",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.KartAndFightRemapsRemainIndependentDuringActualInputSampling",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.OlderPreferencesKeepCustomFightKeysWhileMissingKartMapsAreRepaired",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.RebindingSharedKeyboardSwapsConflictsWithoutChangingKartMap",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.ReleasedTapSurvivesRenderFramesWithoutSimulationAndIsConsumedOnce",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.Input.AppInputTests.ReservedMenuKeyDoesNotCommitARebindAndEscapeCancelsIt",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.BossDifficultySurvivesCheckpointAndRoundReset(0)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.BossDifficultySurvivesCheckpointAndRoundReset(1)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.BossDifficultySurvivesCheckpointAndRoundReset(2)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.BossDifficultySurvivesCheckpointAndRoundReset(3)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(0)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(1)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(2)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(3)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(4)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(5)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(6)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(7)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(8)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(9)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(10)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(11)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(12)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(13)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.EveryCapturingUltimateDealsItsAuthoredDamageAndReleasesActors(15)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.InvalidCheckpointAndTeamSelectionLeaveLiveMatchUntouched",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.ProfileRejectsDamagedNonemptyCampaignInsteadOfDiscardingIt",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.ShippedCatalogContainsOriginalIdentitiesAndChainLinks",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.TeamCheckpointPreservesIdentityResourcesAndDeterministicContinuation",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonProfileRetainsRealCampaignAndPendingBenefit",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonRetainsClassicTowerRouteAndDiogoSkin(3)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonRetainsClassicTowerRouteAndDiogoSkin(5)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonRetainsClassicTowerRouteAndDiogoSkin(8)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonRetainsClassicTowerRouteAndDiogoSkin(10)",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonRetainsMirrorTournamentSlotsAndMixedControllers",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonRetainsSurvivalHealthScoreAndNextRival",
+      "Result": "Passed"
+    },
+    {
+      "Name": "UFN.Tests.EditMode.CoreEditModeTests.UnityJsonSavesFreshProfileWithoutInventingAnActiveCampaign",
+      "Result": "Passed"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "UFN.App",
+  "references": ["UFN.Core", "UFN.Presentation", "Unity.InputSystem"],
+  "autoReferenced": true
+}

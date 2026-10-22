@@ -1,0 +1,426 @@
+[
+  {
+    "path": "sprites/urso.png",
+    "sha256": "4e4ed6955c4118da5fa9f8b708524e154f3696ffd7725b7b10dc64d2117edc9f"
+  },
+  {
+    "path": "sprites/andre/atlas.png",
+    "sha256": "9b9b8a85928ea4cd95d9626de6f90349154600eb658b41095c4ea5aa0e38138b"
+  },
+  {
+    "path": "sprites/andre/frames.json",
+    "sha256": "37098edb83d20e1a41280cdd2d063b1fcfd0b23c7f773aeafad65eb96905ec8d"
+  },
+  {
+    "path": "sprites/andre/portrait.png",
+    "sha256": "0b1a01e6ead11fa0992b8f9544b90bd76a99d314547e3c09ece5d01e19890805"
+  },
+  {
+    "path": "sprites/arthur/atlas.png",
+    "sha256": "aca7fc979b4d558eb76a7b65c1b0c8fae639221d9a8516d38fac15d6a26ecfae"
+  },
+  {
+    "path": "sprites/arthur/frames.json",
+    "sha256": "39d8792f4abe2f08370194c658445e319a3704716b9bb25d9d0312c14b1170c4"
+  },
+  {
+    "path": "sprites/arthur/portrait.png",
+    "sha256": "60daa5c4237c5d30aa409817be604911a3ed0fd3cf2daef135f4b7a52645a372"
+  },
+  {
+    "path": "sprites/cristian/atlas.png",
+    "sha256": "d8f32a9bf7bb294d9a3ef7034916b09c0848440221d612db540da0062a5766ea"
+  },
+  {
+    "path": "sprites/cristian/frames.json",
+    "sha256": "01c54c3e18553d64c2f5487705944008dcc6019730ec9279edf4ad6458a83453"
+  },
+  {
+    "path": "sprites/cristian/portrait.png",
+    "sha256": "e13d5b604f6b32f9bc4458bdb7766f57a312bca52078cebbca6df13a5d19ce87"
+  },
+  {
+    "path": "sprites/diogo/atlas.png",
+    "sha256": "ed6151bf3a2ea0136c2f05db1981dcb2b62974a37147ddd363db08dbdeeedf09"
+  },
+  {
+    "path": "sprites/diogo/frames.json",
+    "sha256": "68e1f435683abaa2ce84b53899e9261bbcfacac8932adc3051450c0e49a2babe"
+  },
+  {
+    "path": "sprites/diogo/portrait.png",
+    "sha256": "187cf248821594f6de673b1ad9b4508781f3bd977c4d918914390ee38890ffba"
+  },
+  {
+    "path": "sprites/diogo_alt/atlas.png",
+    "sha256": "d8cd8f3ca69bc4c853723843868090ef98c0c719c312ec02a46f61ef0281e5a1"
+  },
+  {
+    "path": "sprites/diogo_alt/frames.json",
+    "sha256": "68e1f435683abaa2ce84b53899e9261bbcfacac8932adc3051450c0e49a2babe"
+  },
+  {
+    "path": "sprites/diogo_alt/portrait.png",
+    "sha256": "673cbf2ca093bf30c73cb6f44ac980440a46784ed288202d1b12285f8c21011b"
+  },
+  {
+    "path": "sprites/fabiano/atlas.png",
+    "sha256": "be6a382a7fa71394250fcf55773b368874ef9f96ce05f7e5a9ad1e5018561798"
+  },
+  {
+    "path": "sprites/fabiano/frames.json",
+    "sha256": "b3d2e82713d578350646eb02c2537d41af1eb31ff9e48df72fef34920ec412e2"
+  },
+  {
+    "path": "sprites/fabiano/portrait.png",
+    "sha256": "5417d00b29c539a2ea2e37ac34bfb38509ba33760adc2c78bfbab030b59d23b1"
+  },
+  {
+    "path": "sprites/felipe/atlas.png",
+    "sha256": "1865fd23399837a076f14f30b8bf0c00c26dd96fc86adc1885032817eb1f7aaf"
+  },
+  {
+    "path": "sprites/felipe/frames.json",
+    "sha256": "f31f5144cbb23138dcc7120534952c4a4f0a4a8a53384428acb5a3bb65859165"
+  },
+  {
+    "path": "sprites/felipe/portrait.png",
+    "sha256": "2c370060726e68f012b1143c0d5d4a7d61f2f6bbe006dc2f22046776880bb6ba"
+  },
+  {
+    "path": "sprites/fernando/atlas.png",
+    "sha256": "d2e36bcfaaa16a077cf86770fdd90ad280c13c7740f5bf7bc822f6c52286bda6"
+  },
+  {
+    "path": "sprites/fernando/frames.json",
+    "sha256": "3ac7297e202099abdc322220823ab0e7fb882ab4e27f90e5e3dad6376892cc5b"
+  },
+  {
+    "path": "sprites/fernando/portrait.png",
+    "sha256": "a048d14f938d782caaea9c0f278f51adc0e2373a89411ca8575b3653981a67b4"
+  },
+  {
+    "path": "sprites/gabriel/atlas.png",
+    "sha256": "95b929f10f2617fce53ad3adf3f0cb1213e5ee605201260ea6c862b8328d0846"
+  },
+  {
+    "path": "sprites/gabriel/frames.json",
+    "sha256": "fff207dc4bebd615e3dba795cf5944afb30c912976e9a7e1fb11b1967ce6b2de"
+  },
+  {
+    "path": "sprites/gabriel/portrait.png",
+    "sha256": "bd949659ef891290e74f3d5c4642dfb3dd605c820ee3681e926bb13a4089847a"
+  },
+  {
+    "path": "sprites/kelvin/atlas.png",
+    "sha256": "9af27370fecdb8915f3351cde35c996d91198eaf8466501d382afc6b5f9b77d5"
+  },
+  {
+    "path": "sprites/kelvin/frames.json",
+    "sha256": "82d5c9e227ce86b6d6606b69a8bcd908ce13dd9ee0a8252b0710eee1665484ae"
+  },
+  {
+    "path": "sprites/kelvin/portrait.png",
+    "sha256": "9eeac0ec98b1f77b5dfaccd034437164b985225523604c396402cb77f6df8a01"
+  },
+  {
+    "path": "sprites/leonardo/atlas.png",
+    "sha256": "39f1a373e7b2796e2b7df6021664ace5617f2742470bbe2827fa4eb32fc3c979"
+  },
+  {
+    "path": "sprites/leonardo/frames.json",
+    "sha256": "d5eba706ec114adb0da8e6b08124bfb5bb4dbb4c3402b067c2a3acb7c935cc72"
+  },
+  {
+    "path": "sprites/leonardo/portrait.png",
+    "sha256": "1c1b3899d4d60fdbd8a9d0dc22034fabb66299f60548549c6fd653f5d79e545b"
+  },
+  {
+    "path": "sprites/lorenzo/atlas.png",
+    "sha256": "4468a1bbd67824d4d834589bbb82f14a1c8e10d88bba4376bb893bd4f38a6f05"
+  },
+  {
+    "path": "sprites/lorenzo/frames.json",
+    "sha256": "fb340088bfc0950680fb801dd52eca37229a43ebe0bb32d0e44e8ed6aff95708"
+  },
+  {
+    "path": "sprites/lorenzo/portrait.png",
+    "sha256": "d5a1ac32cdfe9e67ddb6283cc64838ba70f2865fd9585d3f663087efe816e9ac"
+  },
+  {
+    "path": "sprites/maria/atlas.png",
+    "sha256": "76d7eb9cb66ba38a7a5b36946a09d098ed2038d4dff90e9e35aa22ae0d00f206"
+  },
+  {
+    "path": "sprites/maria/frames.json",
+    "sha256": "4ce175db834b5514b154f96e44429fd38532a8654544feeaf009b9fe367e9cd0"
+  },
+  {
+    "path": "sprites/maria/portrait.png",
+    "sha256": "2c53fdc0ed22753fa07cfd131e86f1c429b3e7e53622967805923788c97b8ce1"
+  },
+  {
+    "path": "sprites/mirkos/atlas.png",
+    "sha256": "bd95231c4072c644e20cacdf3ec1bbbe1f02c37e4b482d6c022f5e2ccde8a99f"
+  },
+  {
+    "path": "sprites/mirkos/frames.json",
+    "sha256": "5340d01270c2bb5a3a60d2c0cec8b44007b79881c0e65038d360debfb6e6830c"
+  },
+  {
+    "path": "sprites/mirkos/portrait.png",
+    "sha256": "645888a5fe868484bb7d457d4854850fac34170e1fe4ce771cbdf5b225320b4a"
+  },
+  {
+    "path": "sprites/mirkos_armor/atlas.png",
+    "sha256": "2b8661cb3a19950b533b3fb5e30cb94768443e412b2f5e0522f643c5c0da7a79"
+  },
+  {
+    "path": "sprites/mirkos_armor/frames.json",
+    "sha256": "b411264f8a0e29f5ece60d6306f172f84944d40903709f1d4cb4fd8e1aafb6d0"
+  },
+  {
+    "path": "sprites/mirkos_armor/portrait.png",
+    "sha256": "e8a8ab518c8da0b2e90a268defb8ed0326656e44963305e4d89082b56c5a0e39"
+  },
+  {
+    "path": "sprites/murilo/atlas.png",
+    "sha256": "862a8e432baec9ce6e74baab7de77619ca471cce2e208da6ada38daf6ec5d2de"
+  },
+  {
+    "path": "sprites/murilo/frames.json",
+    "sha256": "0430fc39506d0e48028b5e8bc41aaea74aec5c27de22f24ec621177978f9c8e9"
+  },
+  {
+    "path": "sprites/murilo/portrait.png",
+    "sha256": "cf5f3987cbf9af294bbbdd57e76c03f804b364efa357cf891cc47228741eb404"
+  },
+  {
+    "path": "sprites/vitorbem/atlas.png",
+    "sha256": "069272a9593ba1c3831ab390a813783f78ef00a1f5c849337b657a878d05937d"
+  },
+  {
+    "path": "sprites/vitorbem/frames.json",
+    "sha256": "ddc1bfa4e0d73526c9e025abaa326b99d41ab5520fdd53da196b021d3c7a5669"
+  },
+  {
+    "path": "sprites/vitorbem/portrait.png",
+    "sha256": "bc3cac0dd578f021fa234b4a4626c4659ab0cf7699695d86ee21c2443af54d8e"
+  },
+  {
+    "path": "sprites/vitormal/atlas.png",
+    "sha256": "dfb16fdab673a8b1dcb7057283943c4522ee439f324c555f529ff40ddd0812fd"
+  },
+  {
+    "path": "sprites/vitormal/frames.json",
+    "sha256": "840e37f4dcb241fd8e04a8d76dd89e0fc37ffbfe5742e16434ce7b659e5aa7dc"
+  },
+  {
+    "path": "sprites/vitormal/portrait.png",
+    "sha256": "524eec0b49e572f1c3be82827c0b5104c607db7df7cff1e20ee2eeea71d690d6"
+  },
+  {
+    "path": "sprites/vitor_ally_blonde/atlas.png",
+    "sha256": "43a8860ab52b5dbf9a719f4af4c60c1b6db9c93131592c7919f72c5a3ac5f327"
+  },
+  {
+    "path": "arenas/container.png",
+    "sha256": "7790b6d1fccdee3892508e298cf256fa010bc134aa698922dffba81fe4fcb1b3"
+  },
+  {
+    "path": "arenas/corredor.png",
+    "sha256": "2f7395ab7a0b4b63bcf2a2487ab17042ef007207b9ce1447d822d0a884b6cc22"
+  },
+  {
+    "path": "arenas/entrada.png",
+    "sha256": "14e6fddcf85923f2ba7d0e16f3746fc7d9bacfefad5cf937bb4eb34cf4bced51"
+  },
+  {
+    "path": "arenas/laboratorio.png",
+    "sha256": "f111f5c9ca9d2aa9a85a79c9dd4d4904b579702579c6da0eccfa67e70f6cdc8a"
+  },
+  {
+    "path": "arenas/patio.png",
+    "sha256": "79351838d77f1df0c19268f5c57fe115d4e0f7911c4e1a706bceaf597a080e0a"
+  },
+  {
+    "path": "arenas/quadra.png",
+    "sha256": "629fd64689673f5b91dcbc413d8181947d1e0d9f92082b7701dfb754ac9bb6ee"
+  },
+  {
+    "path": "arenas/rua.png",
+    "sha256": "a670abbb864b7db53282e6cfea6947dfc0f96b580dbd73c50958f5c441ac493b"
+  },
+  {
+    "path": "arenas/vilabelga.png",
+    "sha256": "49aa209652c6478113e67dccc0192c45c93a92186875003c2d2a96b376e5d3aa"
+  },
+  {
+    "path": "audio/block.wav",
+    "sha256": "af1cbc3a573e4e31f9fba12da97ade72c820e86f890837e56a67c7b67111ae89"
+  },
+  {
+    "path": "audio/cancel.wav",
+    "sha256": "8402af5a0adf09bc5004fd4f07e1cf0f32949be740635335fbc43127661ffd18"
+  },
+  {
+    "path": "audio/confirm.wav",
+    "sha256": "512f296304506a5733044bac74a74a8bbf910938b0569f01074daf81e3411c73"
+  },
+  {
+    "path": "audio/counter_hit.wav",
+    "sha256": "130794fac24a4cea4a36868a99be2799927a1235f9b0dbbb2883e5927d6d388c"
+  },
+  {
+    "path": "audio/footstep.wav",
+    "sha256": "1f82d8d93dd9329c6e6abc148d96b718e884649170011c2ddb6ef2fcf691b11f"
+  },
+  {
+    "path": "audio/guard_break.wav",
+    "sha256": "690d8f8612c5a11f1626172af5c121162d708b0de7eb118264fb2baf28b6b8f4"
+  },
+  {
+    "path": "audio/hit.wav",
+    "sha256": "b3f019fbe1d7875cbce4098059a89ebdb0c7ca4bcb9e58ef0b6ba3228e0eceaa"
+  },
+  {
+    "path": "audio/hit_heavy.wav",
+    "sha256": "e5866bd100e825e358b07696ed8ac5df04332c4a54db486a48e94f0176285f95"
+  },
+  {
+    "path": "audio/jump.wav",
+    "sha256": "64dbcfa08739251427558195a2ab4dd3439438c76b0d48ac87a5c54100ffa52e"
+  },
+  {
+    "path": "audio/ko_impact.wav",
+    "sha256": "ad8dbfa6331ca63ad34214c4a02e12da91aac4bdf71feffb6ffc36c0cbc0bed3"
+  },
+  {
+    "path": "audio/music_arena_00.wav",
+    "sha256": "a48f43caae11d5025fce91310e6ab2fc5af375cbd9efe854a69c17210554106b"
+  },
+  {
+    "path": "audio/music_arena_01.wav",
+    "sha256": "bc751884de58f7bb751bf4e39c4e11946de7cdf1f2a6058ac86c2893f1edc437"
+  },
+  {
+    "path": "audio/music_arena_02.wav",
+    "sha256": "6e7d8a80f6ddd4470c52cb9dc860663b7b4942a112b4c6faea5e2e6f015cae46"
+  },
+  {
+    "path": "audio/music_arena_03.wav",
+    "sha256": "fb5d2d6371398e02266b6b617b231c295a0d241c7f1ecac8b294e3d55f6e43b9"
+  },
+  {
+    "path": "audio/music_arena_04.wav",
+    "sha256": "c6ea12633ac3b534e8dabaaf83903db2deb5909ba41cfe4331255d9cb19f9759"
+  },
+  {
+    "path": "audio/music_arena_05.wav",
+    "sha256": "9010f27681f05acb16e319a7ec46af0806bf066716448c1ccfc8a51823b63fd9"
+  },
+  {
+    "path": "audio/music_arena_06.wav",
+    "sha256": "8d809ca3fbc840120fec3c321597bbba6a30176c759cddd11b1e95bb7d5dd9d6"
+  },
+  {
+    "path": "audio/music_arena_07.wav",
+    "sha256": "3f61bbe04a8284cf24bd9a842c15f102a19dec921440d42455e82b3b24fb895f"
+  },
+  {
+    "path": "audio/music_arena_08.wav",
+    "sha256": "b5971c0f3770741363d8957cb2f7512985b3438bcb9940d46cdf5d8dcc4618ef"
+  },
+  {
+    "path": "audio/music_arena_09.wav",
+    "sha256": "2ab0e6ca29cec27e245472250853b2f9ec6f5c32d9acf9789519c2c19332afee"
+  },
+  {
+    "path": "audio/music_menu.wav",
+    "sha256": "bd5306bb24002c5e12f1a97db7f93a2656ea9069fb402d54f06f816ab6491a26"
+  },
+  {
+    "path": "audio/music_selection.wav",
+    "sha256": "b66af19e5b0dd51395b09d059f0dc032788d1eaebd0666f1ab7c2db64f021a56"
+  },
+  {
+    "path": "audio/music_victory.wav",
+    "sha256": "ad6f284c6b6287ef75d23c8395911a6f5f31d4e5eaa1db00d60ff2f51e08f3dd"
+  },
+  {
+    "path": "audio/music_vs.wav",
+    "sha256": "1f3535f43299063c1397206113195d8a195bc5ce4d3cd9ebd81cd99188455761"
+  },
+  {
+    "path": "audio/parry.wav",
+    "sha256": "235ad79bcf9861bf74d96fbb6d7427f25b379fafbd13463b1b929e35a56ac01d"
+  },
+  {
+    "path": "audio/projectile.wav",
+    "sha256": "5de0ffd25e40c6764b8c8fd64fdaf590c7ef64e9468ed74b0be79439ccd10496"
+  },
+  {
+    "path": "audio/ready.wav",
+    "sha256": "140cc246b2f173670ef2f7adc4aebb0ce0b59db816768750f243bcef5b1fb697"
+  },
+  {
+    "path": "audio/select.wav",
+    "sha256": "8950f9419ff83ad2a1fcd41b325ce221c525e316d6f659b874e35e2f89e74dc0"
+  },
+  {
+    "path": "audio/super.wav",
+    "sha256": "ce3781e8fe60092fefc93a5764d1737acfdca058037888d1d735c1612db15585"
+  },
+  {
+    "path": "audio/victory.wav",
+    "sha256": "bc4da97314dfb0befcd88ec993cb5e57bac51d6d6e037ae5b90827d31b419cf7"
+  },
+  {
+    "path": "audio/voice_counter.wav",
+    "sha256": "b2d22e72d02f26be57494ac095d9879c24fb1dccbeb2ab92aa09442daca6284d"
+  },
+  {
+    "path": "audio/voice_fight.wav",
+    "sha256": "3111b658676c5a4b58cf0359665c04820bd641493323aed67dfcb4d9ba730c52"
+  },
+  {
+    "path": "audio/voice_final_hit.wav",
+    "sha256": "216cfacc3552503eea2b12d2b75bdf516f0267ecff3e98d943b98ce163a112ed"
+  },
+  {
+    "path": "audio/voice_final_round.wav",
+    "sha256": "be10906ec4332d4f0ea16d2e839de8fd30674ef685ce03049e8c327867e041ac"
+  },
+  {
+    "path": "audio/voice_guard_break_voice.wav",
+    "sha256": "134c2cf1987e93d7f431299fa59243a125509a22c15b3f3752a5a646e60aff03"
+  },
+  {
+    "path": "audio/voice_ko.wav",
+    "sha256": "89e6bda5405a038aefb194cc8c9ab0919cb3f98f828ae2f652e3b6bf11d5deb6"
+  },
+  {
+    "path": "audio/voice_perfect.wav",
+    "sha256": "a15e9d9ee12cdafbef5a817e5980d99c0c94165ed16921ad2f5343e9d6c0bc4b"
+  },
+  {
+    "path": "audio/voice_player_one_wins.wav",
+    "sha256": "064f2191bae13cc9ec57279bb77e6ce3b36339aaf6fb0df01fcc7cbe29a02f5f"
+  },
+  {
+    "path": "audio/voice_player_two_wins.wav",
+    "sha256": "cb8292b7c1ef1e80fec00969c510a80cb18a1f7a3228757103ebb59d0d058325"
+  },
+  {
+    "path": "audio/voice_round_one.wav",
+    "sha256": "c0e49304329c72b0ac0a6a18627be039038dc5896cd4b1e14f82479e02e1b26b"
+  },
+  {
+    "path": "audio/voice_round_two.wav",
+    "sha256": "1b767a34ba56e744709c461d80864067d240c7f3260f60ad6c3fd74bdb99472d"
+  },
+  {
+    "path": "audio/whoosh.wav",
+    "sha256": "408b6334096a38dd006709356573b1f0fcce781a354655e4f6548f90ce9adc9d"
+  }
+]

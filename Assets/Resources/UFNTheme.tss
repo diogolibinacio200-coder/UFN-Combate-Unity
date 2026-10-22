@@ -1,0 +1,20 @@
+@import url("unity-theme://default");
+
+.unity-slider__tracker {
+    height: 5px;
+    background-color: rgb(35, 58, 75);
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+}
+
+.unity-slider__dragger {
+    width: 16px;
+    height: 22px;
+    background-color: rgb(74, 230, 240);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}

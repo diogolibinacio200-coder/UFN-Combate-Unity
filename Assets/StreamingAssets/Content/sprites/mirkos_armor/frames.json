@@ -1,0 +1,1695 @@
+{
+	"anchor": [
+		192,
+		304
+	],
+	"animations": {
+		"airheavy": [
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"airpunch2",
+			"airpunch2",
+			"airpunch2",
+			"airpunch2",
+			"airpunch2",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3"
+		],
+		"airkick": [
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump0",
+			"airkick",
+			"airkick",
+			"airkick",
+			"airkick",
+			"airkick",
+			"airkick",
+			"kick",
+			"kick",
+			"kick",
+			"kick",
+			"kick",
+			"kick",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3"
+		],
+		"airlight": [
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch0",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"airpunch1",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3"
+		],
+		"backdash": [
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1"
+		],
+		"backwalk": [
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"walk0",
+			"walk0",
+			"walk0",
+			"walk0",
+			"walk0",
+			"walk0",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1"
+		],
+		"block": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard"
+		],
+		"crouch": [
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard"
+		],
+		"dash": [
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"dash",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1"
+		],
+		"defeat": [
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down"
+		],
+		"down": [
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down"
+		],
+		"fall": [
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3"
+		],
+		"grab": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		],
+		"guard": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard"
+		],
+		"heavy": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch2",
+			"punch2",
+			"punch2",
+			"punch2",
+			"punch2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		],
+		"hurt": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch"
+		],
+		"idle": [
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1"
+		],
+		"intro": [
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle0",
+			"idle0"
+		],
+		"jump": [
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump0",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump1",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump2",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3",
+			"jump3"
+		],
+		"kick": [
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"backkick",
+			"backkick",
+			"backkick",
+			"backkick",
+			"backkick",
+			"kick",
+			"kick",
+			"kick",
+			"kick",
+			"kick",
+			"axe",
+			"axe",
+			"axe",
+			"axe",
+			"axe",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1"
+		],
+		"land": [
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"land",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		],
+		"light": [
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch2",
+			"punch2",
+			"punch2",
+			"punch2",
+			"punch2",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1"
+		],
+		"lowguard": [
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard"
+		],
+		"lowheavy": [
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch"
+		],
+		"lowkick": [
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"sweep",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch"
+		],
+		"lowlight": [
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowguard",
+			"lowpunch0",
+			"lowpunch0",
+			"lowpunch0",
+			"lowpunch0",
+			"lowpunch0",
+			"lowpunch1",
+			"lowpunch1",
+			"lowpunch1",
+			"lowpunch1",
+			"lowpunch1",
+			"lowpunch2",
+			"lowpunch2",
+			"lowpunch2",
+			"lowpunch2",
+			"lowpunch2",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch"
+		],
+		"recover": [
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"down",
+			"recover",
+			"recover",
+			"recover",
+			"recover",
+			"recover",
+			"recover",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		],
+		"specialA": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro"
+		],
+		"specialB": [
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"recover",
+			"recover",
+			"recover",
+			"recover",
+			"recover",
+			"recover",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"punch0",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		],
+		"specialC": [
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch1",
+			"punch1",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		],
+		"ultimate": [
+			"crouch",
+			"crouch",
+			"crouch",
+			"crouch",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"upper",
+			"upper",
+			"upper",
+			"upper",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"guard",
+			"guard",
+			"guard",
+			"guard",
+			"intro",
+			"intro",
+			"intro",
+			"intro"
+		],
+		"victory": [
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"victory",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro",
+			"intro"
+		],
+		"walk": [
+			"walk0",
+			"walk0",
+			"walk0",
+			"walk0",
+			"walk0",
+			"walk0",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"idle1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"walk1",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2",
+			"idle2"
+		]
+	},
+	"frames": {
+		"airkick": [
+			1536.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"airpunch0": [
+			2304.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"airpunch1": [
+			0.0,
+			1280.0,
+			384.0,
+			320.0
+		],
+		"airpunch2": [
+			768.0,
+			1280.0,
+			384.0,
+			320.0
+		],
+		"axe": [
+			768.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"backkick": [
+			1920.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"crouch": [
+			1536.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"dash": [
+			0.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"down": [
+			384.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"guard": [
+			1152.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"hurt": [
+			2304.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"idle0": [
+			0.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"idle1": [
+			384.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"idle2": [
+			768.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"intro": [
+			1536.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"jump0": [
+			384.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"jump1": [
+			768.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"jump2": [
+			1152.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"jump3": [
+			1536.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"kick": [
+			384.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"knockback": [
+			2688.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"land": [
+			0.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"lowguard": [
+			1920.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"lowpunch0": [
+			1920.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"lowpunch1": [
+			2688.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"lowpunch2": [
+			384.0,
+			1280.0,
+			384.0,
+			320.0
+		],
+		"punch0": [
+			1920.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"punch1": [
+			2304.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"punch2": [
+			2688.0,
+			320.0,
+			384.0,
+			320.0
+		],
+		"recover": [
+			768.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"sweep": [
+			1152.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"upper": [
+			0.0,
+			640.0,
+			384.0,
+			320.0
+		],
+		"victory": [
+			1152.0,
+			960.0,
+			384.0,
+			320.0
+		],
+		"walk0": [
+			2304.0,
+			0.0,
+			384.0,
+			320.0
+		],
+		"walk1": [
+			2688.0,
+			0.0,
+			384.0,
+			320.0
+		]
+	},
+	"imported_poses": {
+		"airkick": {
+			"destination": [
+				121,
+				93
+			],
+			"size": [
+				196,
+				169
+			],
+			"source_pose": "airkick",
+			"source_rect": [
+				429,
+				547,
+				208,
+				209
+			],
+			"whole_pose_alias": false
+		},
+		"airpunch0": {
+			"destination": [
+				98,
+				48
+			],
+			"size": [
+				208,
+				200
+			],
+			"source_pose": "punch0",
+			"source_rect": [
+				632,
+				330,
+				221,
+				228
+			],
+			"whole_pose_alias": true
+		},
+		"airpunch1": {
+			"destination": [
+				88,
+				45
+			],
+			"size": [
+				209,
+				203
+			],
+			"source_pose": "punch1",
+			"source_rect": [
+				819,
+				330,
+				219,
+				228
+			],
+			"whole_pose_alias": true
+		},
+		"airpunch2": {
+			"destination": [
+				81,
+				54
+			],
+			"size": [
+				195,
+				194
+			],
+			"source_pose": "punch2",
+			"source_rect": [
+				985,
+				340,
+				205,
+				219
+			],
+			"whole_pose_alias": true
+		},
+		"axe": {
+			"destination": [
+				134,
+				75
+			],
+			"size": [
+				148,
+				229
+			],
+			"source_pose": "axe",
+			"source_rect": [
+				18,
+				548,
+				164,
+				239
+			],
+			"whole_pose_alias": false
+		},
+		"backkick": {
+			"destination": [
+				135,
+				109
+			],
+			"size": [
+				118,
+				195
+			],
+			"source_pose": "backkick",
+			"source_rect": [
+				643,
+				567,
+				140,
+				217
+			],
+			"whole_pose_alias": false
+		},
+		"crouch": {
+			"destination": [
+				125,
+				136
+			],
+			"size": [
+				141,
+				168
+			],
+			"source_pose": "crouch",
+			"source_rect": [
+				639,
+				75,
+				147,
+				204
+			],
+			"whole_pose_alias": false
+		},
+		"dash": {
+			"destination": [
+				70,
+				63
+			],
+			"size": [
+				203,
+				225
+			],
+			"source_pose": "dash",
+			"source_rect": [
+				1272,
+				20,
+				237,
+				258
+			],
+			"whole_pose_alias": false
+		},
+		"down": {
+			"destination": [
+				87,
+				220
+			],
+			"size": [
+				235,
+				84
+			],
+			"source_pose": "down",
+			"source_rect": [
+				239,
+				879,
+				249,
+				115
+			],
+			"whole_pose_alias": false
+		},
+		"guard": {
+			"destination": [
+				125,
+				81
+			],
+			"size": [
+				136,
+				223
+			],
+			"source_pose": "guard",
+			"source_rect": [
+				495,
+				20,
+				143,
+				255
+			],
+			"whole_pose_alias": false
+		},
+		"hurt": {
+			"destination": [
+				125,
+				81
+			],
+			"size": [
+				136,
+				223
+			],
+			"source_pose": "guard",
+			"source_rect": [
+				495,
+				20,
+				143,
+				255
+			],
+			"whole_pose_alias": true
+		},
+		"idle0": {
+			"destination": [
+				107,
+				76
+			],
+			"size": [
+				170,
+				228
+			],
+			"source_pose": "idle0",
+			"source_rect": [
+				15,
+				20,
+				178,
+				255
+			],
+			"whole_pose_alias": false
+		},
+		"idle1": {
+			"destination": [
+				116,
+				79
+			],
+			"size": [
+				151,
+				225
+			],
+			"source_pose": "idle1",
+			"source_rect": [
+				194,
+				20,
+				158,
+				255
+			],
+			"whole_pose_alias": false
+		},
+		"idle2": {
+			"destination": [
+				121,
+				91
+			],
+			"size": [
+				138,
+				214
+			],
+			"source_pose": "idle2",
+			"source_rect": [
+				353,
+				20,
+				141,
+				255
+			],
+			"whole_pose_alias": false
+		},
+		"intro": {
+			"destination": [
+				127,
+				79
+			],
+			"size": [
+				124,
+				225
+			],
+			"source_pose": "intro",
+			"source_rect": [
+				947,
+				765,
+				145,
+				236
+			],
+			"whole_pose_alias": false
+		},
+		"jump0": {
+			"destination": [
+				129,
+				83
+			],
+			"size": [
+				105,
+				172
+			],
+			"source_pose": "jump0",
+			"source_rect": [
+				17,
+				330,
+				129,
+				209
+			],
+			"whole_pose_alias": false
+		},
+		"jump1": {
+			"destination": [
+				136,
+				77
+			],
+			"size": [
+				97,
+				175
+			],
+			"source_pose": "jump1",
+			"source_rect": [
+				178,
+				287,
+				141,
+				211
+			],
+			"whole_pose_alias": false
+		},
+		"jump2": {
+			"destination": [
+				118,
+				47
+			],
+			"size": [
+				114,
+				222
+			],
+			"source_pose": "jump2",
+			"source_rect": [
+				334,
+				282,
+				126,
+				232
+			],
+			"whole_pose_alias": false
+		},
+		"jump3": {
+			"destination": [
+				126,
+				62
+			],
+			"size": [
+				102,
+				203
+			],
+			"source_pose": "jump3",
+			"source_rect": [
+				477,
+				322,
+				126,
+				218
+			],
+			"whole_pose_alias": false
+		},
+		"kick": {
+			"destination": [
+				146,
+				88
+			],
+			"size": [
+				167,
+				216
+			],
+			"source_pose": "kick",
+			"source_rect": [
+				1328,
+				329,
+				192,
+				231
+			],
+			"whole_pose_alias": false
+		},
+		"knockback": {
+			"destination": [
+				111,
+				166
+			],
+			"size": [
+				144,
+				138
+			],
+			"source_pose": "land",
+			"source_rect": [
+				20,
+				830,
+				162,
+				165
+			],
+			"whole_pose_alias": true
+		},
+		"land": {
+			"destination": [
+				111,
+				166
+			],
+			"size": [
+				144,
+				138
+			],
+			"source_pose": "land",
+			"source_rect": [
+				20,
+				830,
+				162,
+				165
+			],
+			"whole_pose_alias": false
+		},
+		"lowguard": {
+			"destination": [
+				115,
+				159
+			],
+			"size": [
+				137,
+				145
+			],
+			"source_pose": "lowguard",
+			"source_rect": [
+				789,
+				90,
+				147,
+				190
+			],
+			"whole_pose_alias": false
+		},
+		"lowpunch0": {
+			"destination": [
+				98,
+				104
+			],
+			"size": [
+				208,
+				200
+			],
+			"source_pose": "punch0",
+			"source_rect": [
+				632,
+				330,
+				221,
+				228
+			],
+			"whole_pose_alias": true
+		},
+		"lowpunch1": {
+			"destination": [
+				88,
+				101
+			],
+			"size": [
+				209,
+				203
+			],
+			"source_pose": "punch1",
+			"source_rect": [
+				819,
+				330,
+				219,
+				228
+			],
+			"whole_pose_alias": true
+		},
+		"lowpunch2": {
+			"destination": [
+				81,
+				110
+			],
+			"size": [
+				195,
+				194
+			],
+			"source_pose": "punch2",
+			"source_rect": [
+				985,
+				340,
+				205,
+				219
+			],
+			"whole_pose_alias": true
+		},
+		"punch0": {
+			"destination": [
+				98,
+				104
+			],
+			"size": [
+				208,
+				200
+			],
+			"source_pose": "punch0",
+			"source_rect": [
+				632,
+				330,
+				221,
+				228
+			],
+			"whole_pose_alias": false
+		},
+		"punch1": {
+			"destination": [
+				88,
+				101
+			],
+			"size": [
+				209,
+				203
+			],
+			"source_pose": "punch1",
+			"source_rect": [
+				819,
+				330,
+				219,
+				228
+			],
+			"whole_pose_alias": false
+		},
+		"punch2": {
+			"destination": [
+				81,
+				110
+			],
+			"size": [
+				195,
+				194
+			],
+			"source_pose": "punch2",
+			"source_rect": [
+				985,
+				340,
+				205,
+				219
+			],
+			"whole_pose_alias": false
+		},
+		"recover": {
+			"destination": [
+				116,
+				173
+			],
+			"size": [
+				158,
+				131
+			],
+			"source_pose": "recover",
+			"source_rect": [
+				503,
+				839,
+				176,
+				159
+			],
+			"whole_pose_alias": false
+		},
+		"sweep": {
+			"destination": [
+				84,
+				166
+			],
+			"size": [
+				242,
+				138
+			],
+			"source_pose": "sweep",
+			"source_rect": [
+				181,
+				610,
+				253,
+				166
+			],
+			"whole_pose_alias": false
+		},
+		"upper": {
+			"destination": [
+				119,
+				59
+			],
+			"size": [
+				149,
+				245
+			],
+			"source_pose": "upper",
+			"source_rect": [
+				1175,
+				300,
+				163,
+				260
+			],
+			"whole_pose_alias": false
+		},
+		"victory": {
+			"destination": [
+				118,
+				74
+			],
+			"size": [
+				144,
+				230
+			],
+			"source_pose": "victory",
+			"source_rect": [
+				731,
+				764,
+				154,
+				239
+			],
+			"whole_pose_alias": false
+		},
+		"walk0": {
+			"destination": [
+				115,
+				65
+			],
+			"size": [
+				135,
+				239
+			],
+			"source_pose": "walk0",
+			"source_rect": [
+				953,
+				20,
+				153,
+				258
+			],
+			"whole_pose_alias": false
+		},
+		"walk1": {
+			"destination": [
+				125,
+				66
+			],
+			"size": [
+				130,
+				238
+			],
+			"source_pose": "walk1",
+			"source_rect": [
+				1110,
+				20,
+				143,
+				258
+			],
+			"whole_pose_alias": false
+		}
+	},
+	"source": "res://assets/references/060/mirkos-armor-source.jpeg",
+	"whole_pose_aliases": {
+		"airpunch0": "punch0",
+		"airpunch1": "punch1",
+		"airpunch2": "punch2",
+		"hurt": "guard",
+		"knockback": "land",
+		"lowpunch0": "punch0",
+		"lowpunch1": "punch1",
+		"lowpunch2": "punch2"
+	}
+}

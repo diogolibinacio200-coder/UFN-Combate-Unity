@@ -1,0 +1,6 @@
+{
+  "name": "UFN.Editor",
+  "references": ["UFN.Core", "UFN.Presentation", "UFN.App"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

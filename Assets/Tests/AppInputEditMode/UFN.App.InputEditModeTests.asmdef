@@ -1,0 +1,8 @@
+{
+  "name": "UFN.App.InputEditModeTests",
+  "rootNamespace": "UFN.Tests.Input",
+  "references": ["UFN.Core", "UFN.App", "Unity.InputSystem", "Unity.InputSystem.TestFramework"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

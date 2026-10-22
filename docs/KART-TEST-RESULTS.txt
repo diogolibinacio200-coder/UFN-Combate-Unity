@@ -1,0 +1,15 @@
+Kart focused validation
+134 checks, 0 failures, 18.4 seconds
+Unity project: work/ufn-combate-next
+SDK: .NET 10.0.401
+Command: dotnet work/kart-unit-bin/KartTests.dll
+Coverage: five complete circuits/two humans; four-stage championship; time attack at all three difficulty levels; fourteen signature items; item edge; shield absorption; obstacle expiration; Diogo cosmetic equivalence; manual recovery; result freeze; championship snapshot restore and validation.
+C# presentation compile against Unity 6000.3.26f1 assemblies: 0 warnings, 0 errors.
+C# compilation alone does not establish rendering correctness. Unity Editor captures and standalone runtime screenshots were reviewed separately as recorded below.
+
+20/10/2026: the full source suite compiled with 0 warnings and 0 errors and completed 9092 checks with 0 failures. This includes the 134 focused kart checks.
+22/10/2026: the final Unity Editor capture completed successfully and refreshed all 52 PNGs in docs/screens/kart: 45 driver angles, one gallery, five track overviews and one split-screen image. The custom kart shaders rendered correctly, with no missing or pink materials in the reviewed captures.
+The final gallery confirms that the Diogo Careca caption fits its cell. Diogo Careca remains a cosmetic variant of Diogo, giving 14 characters and 15 displayed appearances. The revised Vila Belga overview shows buildings clear of the road, and the Centro overview shows no inner barriers crossing the sharp turn. These final presentation corrections are visually verified.
+Standalone runtime screenshots were also reviewed for all five tracks and both vertical and horizontal two-player split-screen layouts (work/unity-smoke-final/16-kart-pista-0.png through 16-kart-pista-4.png, 17-kart-dupla-vertical.png and 18-kart-dupla-horizontal.png). In the captured positions, kart materials and geometry render correctly, each split-screen camera follows the correct player, and no road-blocking decoration was visible. Several track screenshots show the starting grid; this is not a claim that every camera position around every circuit was visually inspected. Complete race progression on all five circuits is covered by the simulation tests above.
+The driver models are simplified low-poly interpretations of the supplied references; these checks establish functional rendering and the listed corrections, not fidelity to the detailed reference illustrations.
+

@@ -1,0 +1,6 @@
+{
+  "name": "UFN.Core",
+  "rootNamespace": "UFN.Core",
+  "autoReferenced": true,
+  "noEngineReferences": true
+}
