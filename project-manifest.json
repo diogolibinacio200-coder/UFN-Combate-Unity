@@ -1,0 +1,31 @@
+{
+  "version": "0.7.0",
+  "archive_sha256": "93696632286adad3c7d56c6f8f1613a1f34a81f0d199a46576cb73c743afa0f8",
+  "parts": [
+    {
+      "name": "project-part-000.bin",
+      "size": 20971520,
+      "sha256": "fed40f925ad90a144d43c86e1d48f79c5af50c0a32818740a2af281536521763"
+    },
+    {
+      "name": "project-part-001.bin",
+      "size": 20971520,
+      "sha256": "66ffc8184c94aa343ef27bf0e42cada45aa43c88f72ff3337b21d799aac70ea9"
+    },
+    {
+      "name": "project-part-002.bin",
+      "size": 20971520,
+      "sha256": "dacb568976754f1b48e50c3f000807e28a0b9c950a86da2c7e55d09b2eee65e7"
+    },
+    {
+      "name": "project-part-003.bin",
+      "size": 20971520,
+      "sha256": "d71f8b8bd633eeee0262584c73086e2e6d3fbad4f4e026a495b5bc46b9e5328d"
+    },
+    {
+      "name": "project-part-004.bin",
+      "size": 9074230,
+      "sha256": "57089c10b06bb1858836ee80164c4ee3ee65b5f88e93c0fa8a5277a32b96a6db"
+    }
+  ]
+}
